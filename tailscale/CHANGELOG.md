@@ -2,16 +2,18 @@
 
 ## 🐛 Bug fixes
 
-- 🚑 Fix unexpected non-flag arguments to tailscale @frenck (#101)
+- Fix base image update @lmagyar ([#435](https://github.com/hassio-addons/addon-tailscale/pull/435))
+
+## 🚀 Enhancements
+
+- Fix harmless typos @lmagyar ([#429](https://github.com/hassio-addons/addon-tailscale/pull/429))
 
 ## 📚 Documentation
 
-- 📚 Use new My Home Assistant link format @frenck (#99)
+- Update docs with DNS settings @lmagyar ([#428](https://github.com/hassio-addons/addon-tailscale/pull/428))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades nginx to 1.20.2-r1 @frenck (#94)
-- ⬆️ Upgrades Tailscale to 1.24.2 @networkpanic (#93)
-- ⬆️ Upgrades add-on base image to 11.1.2 @frenck (#95)
-- ⬆️ Upgrades add-on base image to 12.0.0 @frenck (#98)
-- ⬆️ Upgrades Tailscale to 1.26.0 @frenck (#100)
+- ⬆️ Update tailscale/tailscale to v1.78.0 @renovate ([#432](https://github.com/hassio-addons/addon-tailscale/pull/432))
+- ⬆️ Update tailscale/tailscale to v1.78.1 @renovate ([#433](https://github.com/hassio-addons/addon-tailscale/pull/433))
+- ⬆️ Update Add-on base image to v17 (major) @renovate ([#434](https://github.com/hassio-addons/addon-tailscale/pull/434))

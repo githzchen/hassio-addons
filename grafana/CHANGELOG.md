@@ -2,5 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 6.1.3 @frenck (#286)
-- ⬆️ Upgrades Grafana to v9.2.4 @frenck (#287)
+- ⬆️ Update grafana/grafana to v11.3.1 @renovate ([#433](https://github.com/hassio-addons/addon-grafana/pull/433))

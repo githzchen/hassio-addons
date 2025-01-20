@@ -2,13 +2,10 @@
 
 ## 🧰 Maintenance
 
-- 🔨 Migrate old-style base scripts s6-rc @frenck (#375)
+- 🎆 Updates maintenance/license year to 2025 @frenck ([#568](https://github.com/hassio-addons/addon-adguard-home/pull/568))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades AdGuard Home to v0.107.18 @AlecRust (#360)
-- ⬆️ Upgrades AdGuard Home to v0.107.19 @AlecRust (#366)
-- ⬆️ Upgrades AdGuard Home to v0.107.20 @AlecRust (#372)
-- ⬆️ Upgrades add-on base image to 13.0.0 @frenck (#374)
-- ⬆️ Upgrades yq to 4.30.4-r1 @frenck (#377)
-- ⬆️ Upgrades AdGuard Home to v0.107.21 @AlecRust (#376)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.1 @renovate ([#565](https://github.com/hassio-addons/addon-adguard-home/pull/565))
+- ⬆️ Update alpine_3_21/nginx to v1.26.2-r4 @renovate ([#566](https://github.com/hassio-addons/addon-adguard-home/pull/566))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17.0.2 @renovate ([#567](https://github.com/hassio-addons/addon-adguard-home/pull/567))

@@ -129,7 +129,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2019-2022 Timmo
+Copyright (c) 2019-2024 Timmo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -158,6 +158,6 @@ SOFTWARE.
 [issue]: https://github.com/hassio-addons/addon-thelounge/issues
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-thelounge/releases
-[semver]: http://semver.org/spec/v2.0.0.htm
+[semver]: https://semver.org/spec/v2.0.0.html
 [themes]: https://www.npmjs.com/search?q=keywords%3Athelounge-theme
 [timmo]: https://github.com/timmo001

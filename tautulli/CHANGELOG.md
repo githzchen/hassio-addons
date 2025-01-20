@@ -1,15 +1,17 @@
 ## What’s changed
 
-## 🧰 Maintenance
-
-- 🔨 Migrate old-style S6 scripts to s6-rc.d @frenck (#259)
-
 ## ⬆️ Dependency updates
 
-- Bump setuptools from 65.5.1 to 65.6.0 in /tautulli @dependabot (#254)
-- Bump setuptools from 65.6.0 to 65.6.2 in /tautulli @dependabot (#255)
-- Bump setuptools from 65.6.2 to 65.6.3 in /tautulli @dependabot (#256)
-- Bump pycryptodomex from 3.15.0 to 3.16.0 @dependabot (#257)
-- ⬆️ Upgrades add-on base image to 6.2.0 @frenck (#258)
-- Bump crudini from 0.9.3 to 0.9.4 in /tautulli @dependabot (#261)
-- ⬆️ Upgrades Tautulli to v2.11.1 @frenck (#262)
+- ⬆️ Update pycryptodomex to v3.21.0 @renovate ([#372](https://github.com/hassio-addons/addon-tautulli/pull/372))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.1 @renovate ([#373](https://github.com/hassio-addons/addon-tautulli/pull/373))
+- ⬆️ Update setuptools to v75.2.0 @renovate ([#374](https://github.com/hassio-addons/addon-tautulli/pull/374))
+- ⬆️ Update setuptools to v75.3.0 @renovate ([#376](https://github.com/hassio-addons/addon-tautulli/pull/376))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.2 @renovate ([#377](https://github.com/hassio-addons/addon-tautulli/pull/377))
+- ⬆️ Update setuptools to v75.4.0 @renovate ([#378](https://github.com/hassio-addons/addon-tautulli/pull/378))
+- ⬆️ Update setuptools to v75.5.0 @renovate ([#379](https://github.com/hassio-addons/addon-tautulli/pull/379))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.0 @renovate ([#380](https://github.com/hassio-addons/addon-tautulli/pull/380))
+- ⬆️ Update plexapi to v4.16.0 @renovate ([#381](https://github.com/hassio-addons/addon-tautulli/pull/381))
+- ⬆️ Update setuptools to v75.6.0 @renovate ([#382](https://github.com/hassio-addons/addon-tautulli/pull/382))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.1 @renovate ([#383](https://github.com/hassio-addons/addon-tautulli/pull/383))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.2 @renovate ([#384](https://github.com/hassio-addons/addon-tautulli/pull/384))
+- ⬆️ Upgrades Tautulli to v2.15.0 @frenck ([#385](https://github.com/hassio-addons/addon-tautulli/pull/385))

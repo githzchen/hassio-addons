@@ -74,7 +74,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2022-2023 Franck Nijhof
+Copyright (c) 2022-2024 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -104,4 +104,4 @@ SOFTWARE.
 [issue]: https://github.com/hassio-addons/addon-uptime-kuma/issues
 [reddit]: https://reddit.com/r/homeassistant
 [releases]: https://github.com/hassio-addons/addon-uptime-kuma/releases
-[semver]: http://semver.org/spec/v2.0.0.htm
+[semver]: https://semver.org/spec/v2.0.0.html

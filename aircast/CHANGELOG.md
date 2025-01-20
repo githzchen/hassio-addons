@@ -1,10 +1,10 @@
 ## What’s changed
 
-## 🧰 Maintenance
-
-- 🔨 Migrate old-style S6 scripts to s6-rc.d @frenck (#156)
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 6.2.0 @frenck (#155)
-- ⬆️ Upgrades AirConnect to 1.0.13 @frenck (#157)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.1 @renovate ([#211](https://github.com/hassio-addons/addon-aircast/pull/211))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.2 @renovate ([#212](https://github.com/hassio-addons/addon-aircast/pull/212))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.0 @renovate ([#213](https://github.com/hassio-addons/addon-aircast/pull/213))
+- ⬆️: migrate renovate config @renovate ([#214](https://github.com/hassio-addons/addon-aircast/pull/214))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.1 @renovate ([#215](https://github.com/hassio-addons/addon-aircast/pull/215))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.2 @renovate ([#216](https://github.com/hassio-addons/addon-aircast/pull/216))

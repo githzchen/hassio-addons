@@ -1,10 +1,11 @@
 ## What’s changed
 
-## 🚀 Enhancements
+## 🧰 Maintenance
 
-- Use netfilter tables (nf_tables) backend by default @agners (#213)
+- 🎆 Updates maintenance/license year to 2024 @frenck ([#288](https://github.com/hassio-addons/addon-wireguard/pull/288))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 12.2.3 @frenck (#208)
-- ⬆️ Upgrades add-on base image to 12.2.7 @agners (#212)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 @renovate ([#284](https://github.com/hassio-addons/addon-wireguard/pull/284))
+- ⬆️ Update alpine_3_19/iptables to v1.8.10-r3 @renovate ([#286](https://github.com/hassio-addons/addon-wireguard/pull/286))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 @renovate ([#285](https://github.com/hassio-addons/addon-wireguard/pull/285))

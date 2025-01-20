@@ -1,9 +1,12 @@
 ## What’s changed
 
-## 🧰 Maintenance
+## 🐛 Bug fixes
 
-- 🔨 Migrate old-style S6 scripts to s6-rc.d @frenck (#145)
+- Fix MySQL commands @frenck ([#225](https://github.com/hassio-addons/addon-phpmyadmin/pull/225))
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 13.0.0 @frenck (#144)
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.3 @renovate ([#219](https://github.com/hassio-addons/addon-phpmyadmin/pull/219))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v16.3.4 @renovate ([#220](https://github.com/hassio-addons/addon-phpmyadmin/pull/220))
+- Migrate renovate config @renovate ([#222](https://github.com/hassio-addons/addon-phpmyadmin/pull/222))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v17 @renovate ([#224](https://github.com/hassio-addons/addon-phpmyadmin/pull/224))

@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: SSH & Web Terminal
+# Home Assistant Community Add-on: Advanced SSH & Web Terminal
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -26,8 +26,8 @@ usability, flexibility and also provides access using a web interface.
 
 ## WARNING
 
-The SSH & Web Terminal add-on is a really powerful and gives you virtually
-access to all tools and almost all hardware of your system.
+The advanced SSH & Web Terminal add-on is a really powerful and gives you
+virtually access to all tools and almost all hardware of your system.
 
 While this add-on is created and maintained with care and with security in mind,
 in the wrong or inexperienced hands, it could damage your system.
@@ -43,8 +43,8 @@ well. Additionally, it comes out of the box with the following:
   - Only allows login by the configured user, even if more users are created.
   - Only uses known secure ciphers and algorithms.
   - Limits login attempts to hold off brute-force attacks better.
-  - Many more security tweaks, *this addon passes all [ssh-audit] checks
-    without warnings!*
+  - Many more security tweaks, _this addon passes all [ssh-audit] checks
+    without warnings!_
     ![Result of SSH-Audit][ssh-audit-image]
 - Comes with an SSH compatibility mode option to allow older clients to connect.
 - Support for Mosh allowing roaming and supports intermittent connectivity.
@@ -76,14 +76,14 @@ well. Additionally, it comes out of the box with the following:
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
 [hass-ssh]: https://home-assistant.io/addons/ssh/
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [ohmyzsh]: http://ohmyz.sh/
 [openssh]: https://www.openssh.com/
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v13.0.0-blue.svg
-[release]: https://github.com/hassio-addons/addon-ssh/tree/v13.0.0
+[release-shield]: https://img.shields.io/badge/version-v20.0.0-blue.svg
+[release]: https://github.com/hassio-addons/addon-ssh/tree/v20.0.0
 [screenshot]: https://github.com/hassio-addons/addon-ssh/raw/main/images/screenshot.png
 [ssh-audit-image]: https://github.com/hassio-addons/addon-ssh/raw/main/images/ssh-audit.png
 [ssh-audit]: https://github.com/jtesta/ssh-audit

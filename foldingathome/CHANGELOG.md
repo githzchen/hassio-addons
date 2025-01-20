@@ -1,6 +1,10 @@
 ## What’s changed
 
+## 🧰 Maintenance
+
+- 🎆 Updates maintenance/license year to 2024 @frenck ([#67](https://github.com/hassio-addons/addon-foldingathome/pull/67))
+
 ## ⬆️ Dependency updates
 
-- ⬆️ Upgrades add-on base image to 6.1.0 @frenck (#47)
-- ⬆️ Upgrades add-on base image to 6.1.2 @frenck (#48)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#65](https://github.com/hassio-addons/addon-foldingathome/pull/65))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#66](https://github.com/hassio-addons/addon-foldingathome/pull/66))
